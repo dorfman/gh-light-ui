@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "gh-light-ui",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Make GitHub Great Again",
 	"homepage_url": "https://github.com/karlerikjonatan/gh-light-ui",
 	"content_scripts": [
 		{
